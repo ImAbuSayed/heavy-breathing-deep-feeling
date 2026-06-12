@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heavy-breathing-deep-feeling/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Heavy Breathing Deep Feeling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-breathing-deep-feeling/) |
+| **Get License** | [Official Music Licensing for Heavy Breathing Deep Feeling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-breathing-deep-feeling/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e42ef11d76e6b3b7511d0db3332c9a32d1db15a176462137f3e0845efc1b6f65` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
